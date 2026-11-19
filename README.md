@@ -8,8 +8,18 @@
 
 ## Projects
 
-- **[分散型図書館管理アプリ](https://github.com/SI70185430/decentralized_library_app)** — 社内に点在する蔵書を一つの図書館として使えるようにするWebアプリ。蔵書の検索や保管場所の確認、貸出・予約・返却ができます。
-- **Kanbanタスク管理TUI** — ターミナルでタスクをKanban形式で管理するアプリ。現在は配布方法を整備中です。
+### 分散型図書館管理アプリ ![Web App](https://img.shields.io/badge/Web%20App-34548a?style=flat-square)
+
+社内に点在する蔵書を、一つの図書館として使えるようにするWebアプリ。
+
+**主な機能：** 蔵書検索・保管場所の確認・貸出・予約・返却  
+[リポジトリ・画面デモを見る](https://github.com/SI70185430/decentralized_library_app)
+
+### Kanbanタスク管理TUI ![TUI](https://img.shields.io/badge/TUI-5a4a78?style=flat-square)
+
+ターミナルでタスクをKanban形式で管理するアプリ。
+
+**開発状況：** 配布方法を整備中
 
 ## Tech Stack
 
