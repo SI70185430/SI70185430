@@ -8,7 +8,7 @@
 
 ## Projects
 
-### 分散型図書館管理アプリ ![Web App](https://img.shields.io/badge/Web%20App-34548a?style=flat-square)
+### 分散型図書館管理アプリ ![Web App](https://img.shields.io/badge/Web%20App-345db3?style=flat-square)
 
 社内に点在する蔵書を一つの図書館として利用できる、スマートフォン向けのWebアプリ。  
 開発訓練で提示された要件をもとに、要件定義から設計・実装まで行いました。
@@ -16,7 +16,7 @@
 **主な機能：** 蔵書検索・保管場所の確認・貸出・予約・返却  
 [リポジトリ](https://github.com/SI70185430/decentralized_library_app) · [画面例（GIF・画像）](https://github.com/SI70185430/decentralized_library_app#機能一覧)
 
-### Kanbanタスク管理 ![TUI](https://img.shields.io/badge/TUI-5a4a78?style=flat-square)
+### Kanbanタスク管理 ![TUI](https://img.shields.io/badge/TUI-7450ab?style=flat-square)
 
 ターミナルでタスクをKanban形式で管理するアプリ。
 
