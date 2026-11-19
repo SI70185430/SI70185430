@@ -11,6 +11,7 @@
 ### 分散型図書館管理アプリ ![Web App](https://img.shields.io/badge/Web%20App-34548a?style=flat-square)
 
 社内に点在する蔵書を、一つの図書館として使えるようにするWebアプリ。
+開発訓練で提示された要件をもとに、要件定義から設計・実装まで行いました。
 
 **主な機能：** 蔵書検索・保管場所の確認・貸出・予約・返却  
 [リポジトリ・画面デモを見る](https://github.com/SI70185430/decentralized_library_app)
