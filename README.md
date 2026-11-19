@@ -1,4 +1,6 @@
-# ![Shota Ishiguro](profile-banner.svg)
+<h1 align="center">Shota Ishiguro</h1>
+
+<p align="center"><img src="profile-accent.svg" alt="" width="96" height="3" /></p>
 
 ## About Me
 
