@@ -1,6 +1,4 @@
-<h1 align="center">Shota Ishiguro</h1>
-
-<p align="center"><img src="profile-accent.svg" alt="" width="96" height="3" /></p>
+<h1 align="center"><img src="profile-name.svg" alt="Shota Ishiguro" width="360" height="70" /></h1>
 
 ## About Me
 

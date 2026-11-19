@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="3" viewBox="0 0 96 3">
-  <defs>
-    <linearGradient id="accent">
-      <stop stop-color="#7aa2f7"/>
-      <stop offset="1" stop-color="#bb9af7"/>
-    </linearGradient>
-  </defs>
-  <rect width="96" height="3" rx="1.5" fill="url(#accent)"/>
-</svg>
