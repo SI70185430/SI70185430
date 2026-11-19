@@ -14,9 +14,9 @@
 開発訓練で提示された要件をもとに、要件定義から設計・実装まで行いました。
 
 **主な機能：** 蔵書検索・保管場所の確認・貸出・予約・返却  
-[リポジトリ・画面デモを見る](https://github.com/SI70185430/decentralized_library_app)
+[リポジトリ](https://github.com/SI70185430/decentralized_library_app) · [画面デモ](https://github.com/SI70185430/decentralized_library_app#機能一覧)
 
-### Kanbanタスク管理TUI ![TUI](https://img.shields.io/badge/TUI-5a4a78?style=flat-square)
+### Kanbanタスク管理 ![TUI](https://img.shields.io/badge/TUI-5a4a78?style=flat-square)
 
 ターミナルでタスクをKanban形式で管理するアプリ。
 
@@ -38,6 +38,7 @@
     <td>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24283b?style=flat-square&amp;logo=typescript&amp;logoColor=7aa2f7" />
       <img alt="Next.js" src="https://img.shields.io/badge/Next.js-24283b?style=flat-square&amp;logo=nextdotjs&amp;logoColor=bb9af7" />
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-24283b?style=flat-square&amp;logo=tailwindcss&amp;logoColor=7dcfff" />
     </td>
   </tr>
   <tr>
